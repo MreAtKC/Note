@@ -1,4 +1,4 @@
-# Transifex Github YML 配置
+# **Transifex Github YML 配置**
 
 > **以 `git:` 开头**
 
